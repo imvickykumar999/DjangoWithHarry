@@ -1,6 +1,6 @@
 ># `Django With Harry`
 >
->![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/7b6f84bd-1650-4b11-94d4-23b21c341e0d)
+>![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/84ed74a9-b790-4762-9f1e-52e894e1204b)
 
 <br>
 
@@ -20,8 +20,8 @@ python manage.py startapp home
 python manage.py runserver
 ```
 
-`>>>` Starting development server at http://127.0.0.1:8000/
-
 <br>
 
->![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/cc1836f7-75e0-4590-86eb-f302d56f6534)
+- `>>>` Starting development server at http://127.0.0.1:8000/
+
+- Copy `urls.py` from `mysite` folder and paste this file in `home` folder.
