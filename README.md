@@ -1,10 +1,10 @@
 ># `Django With Harry`
 >
->![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/84ed74a9-b790-4762-9f1e-52e894e1204b)
+>![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/d286b6fe-2230-46c9-b1e3-7f7240a4befa)
 
 <br>
 
-## `Steps to run django project`
+# `Steps to run django project`
 
 ```bash
 django-admin startproject mysite
@@ -25,3 +25,7 @@ python manage.py runserver
 - `>>>` Starting development server at http://127.0.0.1:8000/
 
 - Copy `urls.py` from `mysite` folder and paste this file in `home` folder.
+
+<br>
+
+>![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/89b4b2eb-4078-45e2-b676-fcd846ca0003)
