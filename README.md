@@ -1,7 +1,7 @@
 ># `Deployed` : [`DjangoWithHarry`](https://djangowithharry.pythonanywhere.com/)
 >
->![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/c3a1e6ea-6b64-46af-adee-4d3ded9e3ed9)
->![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/123e454d-987b-4f22-b547-070fa5fe3811)
+>![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/da4a0116-f50d-4315-af3c-14d298d383fa)
+>![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/b8913c19-7778-493a-84d4-a9dc2240e6b7)
 
 <br>
 
@@ -34,3 +34,4 @@ python manage.py runserver
 ># `Folder Structure`
 >
 >![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/89b4b2eb-4078-45e2-b676-fcd846ca0003)
+>![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/123e454d-987b-4f22-b547-070fa5fe3811)
