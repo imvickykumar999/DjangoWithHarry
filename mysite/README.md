@@ -1,6 +1,6 @@
 ># `Deployed Django Project`
 >
->![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/e7d1f9ab-f5d1-43da-8602-da68090530cd)
+>![image](https://github.com/imvickykumar999/DjangoWithHarry/assets/50515418/7292d154-9c6b-44d9-9586-ba7a56dc55cd)
 >
 >      unzip /home/DjangoWithHarry/mysite/manage.zip
 >
