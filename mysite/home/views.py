@@ -11,10 +11,10 @@ def index(request):
     return render(request, 'index.html', context)
 
 def about(request):
-    return HttpResponse('About Page')
+    return render(request, 'about.html')
 
 def services(request):
-    return HttpResponse('Services Page')
+    return render(request, 'services.html')
 
 def contact(request):
-    return HttpResponse('Contact Page')
+    return render(request, 'contact.html')
