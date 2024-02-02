@@ -2,9 +2,38 @@
 {% extends "base.html" %}
 
 {% block title %}
-  More News
+  Vick's News
 {% endblock title %}
 
 {% block body %}
-  <br><h1>The Verge News.</h1>
+<br><center>
+
+  <div class="container my-5">
+    {% for x in context %}
+
+      <div class="col">
+        <div class="card shadow-sm">
+          <a target="_blank" href={{x.urlToImage}}>
+            <img src="{{x.urlToImage}}" class="d-block w-100" alt="...">
+          </a>
+          
+          <div class="card-body">
+            <h2 class="card-text"><strong>{{x.description}}<strong></h2>
+            <br>
+
+            <div style="text-align: center;">
+              <a target="_blank" href="{{x.url}}" class="btn btn-secondary">
+                READ MORE
+              </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    <br><br>
+    {% endfor %}
+  </div>
+
+<center>
 {% endblock body %}
