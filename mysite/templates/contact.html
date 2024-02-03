@@ -10,7 +10,7 @@
   <div class="container mb-3 py-4">
       <h1 class="text-center">Contact Us</h1>
 
-      <form onsubmit="submitLoginForm(event)" method="post" action="/contact">
+      <form method="post" action="/contact">
         {% csrf_token %}
 
           <div class="form-group">
@@ -36,6 +36,5 @@
           <button class="btn btn-primary" type="submit">Submit</button>
       </form>
 
-      <script src="static/contact.js"></script>
   </div>
 {% endblock body %}
