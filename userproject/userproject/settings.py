@@ -25,7 +25,7 @@ SECRET_KEY = '+w2t1e^5j(dc$6hp$z8q%j&u@()wo327xxiq@bd%z7*v27_hx%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['codewithharry.com', 'programmingwithharry.com', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
