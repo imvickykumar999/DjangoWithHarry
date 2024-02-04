@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
+    <link rel="icon" type="image/x-icon" href="static/favicon.png">
 
     <style>
         html,
@@ -85,7 +85,7 @@
 <body class="text-center">
     <form class="form-signin" method="post" action="/login">
         {% csrf_token %}
-        <img class="mb-4" src="static/bootstrap-logo.svg" alt="" width="72" height="72">
+        <img class="mb-4" src="static/favicon.png" alt="" width="72" height="72">
         <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
         <label for="usernameid" class="sr-only">Username</label>
         <input type="text" id="usernameid" name="username" class="form-control" placeholder="Username" required
